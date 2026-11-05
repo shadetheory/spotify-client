@@ -145,7 +145,7 @@ MIT License - free as a bird, open as the range.
 
 ## Credits
 
-Built by [Jordan Partridge](https://github.com/jordanpartridge) with inspiration from:
+Built by [Jordan Partridge](https://github.com/shadetheory) with inspiration from:
 - The Spotify Web API team
 - The Saloon PHP community  
 - The Laravel ecosystem

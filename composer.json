@@ -1,6 +1,7 @@
 {
     "name": "jordanpartridge/spotify-client",
     "description": "A modern Laravel package for the Spotify Web API, built with Saloon HTTP client",
+    "homepage": "https://github.com/shadetheory/spotify-client",
     "keywords": ["laravel", "spotify", "api", "saloon", "http-client"],
     "type": "library",
     "require": {
