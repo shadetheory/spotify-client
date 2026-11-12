@@ -563,7 +563,7 @@ class SpotifyInstallCommand extends Command
             [
                 'star' => '🌟 Star the repo to help other developers discover this tool',
                 'issue' => '🐛 Report any issues on GitHub',
-                'follow' => '📧 Follow @jordanpartridge for more Laravel packages',
+                'follow' => '📧 Follow @shadetheory for more Laravel packages',
                 'share' => '🔄 Share with your team',
             ],
             hint: 'Select all that apply (optional but greatly appreciated!)'
@@ -586,14 +586,14 @@ class SpotifyInstallCommand extends Command
 
     private function openGitHubRepo(): void
     {
-        $url = 'https://github.com/jordanpartridge/spotify-client';
+        $url = 'https://github.com/shadetheory/spotify-client';
         $this->oauthHandler->openBrowser($url);
         info('🌟 Opened GitHub repo in your browser');
     }
 
     private function openGitHubIssues(): void
     {
-        $url = 'https://github.com/jordanpartridge/spotify-client/issues';
+        $url = 'https://github.com/shadetheory/spotify-client/issues';
         $this->oauthHandler->openBrowser($url);
         info('🐛 Opened GitHub issues in your browser');
     }
@@ -661,7 +661,7 @@ class SpotifyInstallCommand extends Command
             }
         }
 
-        info('💬 Need help? Open an issue: https://github.com/jordanpartridge/spotify-client/issues');
+        info('💬 Need help? Open an issue: https://github.com/shadetheory/spotify-client/issues');
     }
 
     private function getCommonErrorFixes(\Exception $e): array
