@@ -300,7 +300,7 @@ This install command took weeks to perfect, and I'd love to know it helped you!
 🌟 Star the repo to help other developers discover this tool
 🐛 Found an issue? Open a GitHub issue and I'll fix it quickly  
 💬 Join our Discord for Spotify API tips and Laravel integration help
-📧 Follow @jordanpartridge for more Laravel packages
+📧 Follow @shadetheory for more Laravel packages
 
 [Open GitHub] [Join Discord] [Skip]
 ```
