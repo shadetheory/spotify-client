@@ -356,8 +356,8 @@ SPOTIFY_DEFAULT_MARKET=US
 
 ## Support
 
-- 📚 [Package Documentation](https://github.com/jordanpartridge/spotify-client)
-- 🐛 [Report Issues](https://github.com/jordanpartridge/spotify-client/issues)
+- 📚 [Package Documentation](https://github.com/shadetheory/spotify-client)
+- 🐛 [Report Issues](https://github.com/shadetheory/spotify-client/issues)
 - 💬 Need help? Open an issue on GitHub!
 
 Enjoy building with Spotify! 🎵
